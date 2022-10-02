@@ -105,11 +105,19 @@ button:hover {
     font-size: 16px;
     font-weight: 400;
     text-align: center;
+    max-height: 1em;
 }
 
 .info img {
     height: 200px;
     width: auto;
+    border: 1px solid #FF2E00;
+    border-radius: 24px;
+    transition-duration: 0.4s;
+}
+
+.info img:hover {
+    background-color: #FEA82F;
 }
 
 blockquote {
