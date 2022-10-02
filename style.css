@@ -111,3 +111,25 @@ button:hover {
     height: 200px;
     width: auto;
 }
+
+blockquote {
+    font: 36px italic;
+    font-weight: lighter;
+    color: #423E3B;
+    background-color: #fffd86;
+    margin: 0;
+    padding: 120px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+blockquote em {
+    padding-bottom: 20px;
+}
+
+blockquote footer {
+    font-size: 28px;
+}
