@@ -25,6 +25,11 @@ header ul, a {
     display: flex;
     list-style-type: none;
     text-decoration: none;
+    transition-duration: 0.4s;
+}
+
+header a:hover {
+    color: #fffd86;
 }
 
 button {
@@ -117,6 +122,7 @@ button:hover {
 }
 
 .info img:hover {
+    border: 1px solid #fffd86;
     background-color: #FEA82F;
 }
 
