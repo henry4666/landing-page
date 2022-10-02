@@ -4,6 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    background-color: #FFFECB;
 }
 
 header {
@@ -14,7 +15,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 60px;
+    padding: 16px 120px;
 }
 
 header ul, a {
@@ -27,18 +28,49 @@ header ul, a {
 }
 
 button {
-    padding: 5px 10px;
+    padding: 6px 18px;
     border: 2px solid #FF2E00;
     border-radius: 6px;
     color: #FFFECB;
+    font-weight: bold;
     background-color: #FF2E00;
     border-color: #FF2E00;
     transition-duration: 0.4s;
+    align-self: flex-start;
 }
 
 button:hover {
     color: #423E3B;
     background-color: #FFFECB;
+}
+
+.cover {
+    padding: 18px 120px 100px;
+    gap: 40px;
+    display: flex;
+    color: #FFFECB;
+    background-color: #FEA82F;
+}
+
+.cover aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cover h1 {
+    font-size: 44px;
+    font-weight: extra-bold;
+    margin: 0 0 16px;
+}
+
+.cover p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.cover img {
+    max-width: 500px;
 }
 
 .info {
