@@ -1,4 +1,4 @@
-# Bee Help Landing Page &#x1F41D
+# Bee Help Landing Page
 
 Basic landing page from Odin Project. With a personal theme chosen by me, about bees. Yellow and Greeny, take a look.
 
@@ -14,7 +14,7 @@ Basic landing page from Odin Project. With a personal theme chosen by me, about 
 - [] TRY TO IMPLEMENT 3D BEES FOLLOWING MOUSE WITH THREE.JS
 - [] DEPLOY
 
-# Credits &#x1F30E
+# Credits
 
 https://theodinproject.com - for the really good lessons
 
