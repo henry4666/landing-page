@@ -209,3 +209,14 @@ blockquote footer {
 .wave-divider .shape-fill {
     fill: #FEA82F;
 }
+
+.wavy-bg {
+    min-width: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.quote-bg {
+    background-image: url('./svgs/quote-bg.svg')
+}
