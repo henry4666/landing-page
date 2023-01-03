@@ -1,18 +1,6 @@
 # Bee Help Landing Page
 
-Basic landing page from Odin Project. With a personal theme chosen by me, about bees. Yellow and Greeny, take a look.
-
-# PLANS
-
-- [] BETTER README.MD
-- [] NEWSLETTER SIGN-UP
-- [] FIND DONATION CAUSES
-- [] BOT FOR SCAVENGING BEE NEWS
-- [] FIND SOURCES OF EDUCATION FOR BEES (VIDEOS, ARTICLES...)
-- [] MAP FOR LICENSED BEEHIVES
-- [] BLOB FOR IMGS ON INFO SECTION
-- [] TRY TO IMPLEMENT 3D BEES FOLLOWING MOUSE WITH THREE.JS
-- [] DEPLOY
+Basic landing page made for my studies @ Odin Project. With a personal theme chosen by me, about bees, yellowy, take a look.
 
 # Credits
 
